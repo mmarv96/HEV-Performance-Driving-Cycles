@@ -19,13 +19,14 @@ The following parameters can be estimated with the results of the model:
 - MPG change in time
 - Miles travelled
 
-
+![Summary_Graphs](https://github.com/mmarv96/HEV-Performance-Driving-Cycles/assets/58235749/c017fcdb-fc9c-462f-aacc-2e02b1c28b47)
 
 
 Dependancies
 
 - Matlab
 - Simulink 
+
 
 
 How to Run?
