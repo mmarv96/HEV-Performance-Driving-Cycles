@@ -3,6 +3,11 @@
 This work shows a parallel hybrid electric vehicle's performance at different drive cycles. 
 
 
+![image](https://github.com/mmarv96/HEV-Performance-Driving-Cycles/assets/58235749/6bbca827-399c-400d-8abb-73d99bd55adc)
+
+
+
+
 
 What can be done
 
