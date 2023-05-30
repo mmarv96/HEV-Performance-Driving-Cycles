@@ -1,4 +1,4 @@
-# EV
+# HEV Performance Analyis
 
 This work shows a parallel hybrid electric vehicle's performance at different drive cycles. 
 
